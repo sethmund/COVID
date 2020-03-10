@@ -1,0 +1,200 @@
+country,region,IRC_site
+Afghanistan,ASIA,CP
+Albania,EUROPE,n/a
+Algeria,MIDDLE EAST,n/a
+Andorra,EUROPE,n/a
+Angola,EAST AFRICA,n/a
+Argentina,LATIN AMERICA,n/a
+Armenia,MIDDLE EAST,n/a
+Aruba,CARIBBEAN,n/a
+Australia,OCEANIA,n/a
+Austria,EUROPE,n/a
+Azerbaijan,MIDDLE EAST,n/a
+Bahamas,CARIBBEAN,n/a
+Bahrain,MIDDLE EAST,n/a
+Bangladesh,ASIA,CP
+Barbados,CARIBBEAN,n/a
+Belarus,EUROPE,n/a
+Belgium,EUROPE,Office
+Belize,LATIN AMERICA,n/a
+Benin,WEST AFRICA,n/a
+Bhutan,ASIA,n/a
+Bolivia,LATIN AMERICA,n/a
+Bosnia and Herzegovina,EUROPE,n/a
+Botswana,EAST AFRICA,n/a
+Brazil,LATIN AMERICA,n/a
+Brunei,ASIA,n/a
+Bulgaria,EUROPE,n/a
+Burkina Faso,WEST AFRICA,CP
+Burundi,GREAT LAKES,CP
+Cambodia,ASIA,n/a
+Cameroon,WEST AFRICA,CP
+Canada,NORTH AMERICA,n/a
+Cape Verde,WEST AFRICA,n/a
+Central African Republic,GREAT LAKES,CP
+Chad,WEST AFRICA,CP
+Chile,LATIN AMERICA,n/a
+Mainland China,ASIA,n/a
+Colombia,LATIN AMERICA,CP
+Comoros,EAST AFRICA,n/a
+Congo Brazzaville,EAST AFRICA,n/a
+Congo Democratic Republic,GREAT LAKES,CP
+Cook Islands,OCEANIA,n/a
+Costa Rica,LATIN AMERICA,n/a
+Cote dIvoire,WEST AFRICA,CP
+Croatia,EUROPE,n/a
+Cuba,CARIBBEAN,n/a
+Cyprus,MIDDLE EAST,n/a
+Czech Republic,EUROPE,n/a
+Denmark,EUROPE,n/a
+Djibouti,EAST AFRICA,n/a
+Dominica,CARIBBEAN,n/a
+Dominican Republic,CARIBBEAN,n/a
+Ecuador,LATIN AMERICA,n/a
+Egypt,MIDDLE EAST,n/a
+El Salvador ,LATIN AMERICA,CP
+Equatorial Guinea,WEST AFRICA,n/a
+Eritrea,EAST AFRICA,n/a
+Estonia,EUROPE,n/a
+eSwatini Swaziland,EAST AFRICA,n/a
+Ethiopia,EAST AFRICA,CP
+Fiji,OCEANIA,n/a
+Finland,EUROPE,n/a
+France,EUROPE,n/a
+French Guiana,LATIN AMERICA,n/a
+Gabon,WEST AFRICA,n/a
+Gambia,WEST AFRICA,n/a
+Georgia,MIDDLE EAST,n/a
+Germany,EUROPE,Office
+Ghana,WEST AFRICA,n/a
+Greece,EUROPE,Office
+Grenada,CARIBBEAN,n/a
+Guatemala,LATIN AMERICA,n/a
+Guinea,WEST AFRICA,n/a
+Guinea-Bissau,WEST AFRICA,n/a
+Guyana,LATIN AMERICA,n/a
+Haiti,CARIBBEAN,n/a
+Honduras,LATIN AMERICA,n/a
+Hungary,EUROPE,n/a
+Iceland,EUROPE,n/a
+India,ASIA,n/a
+Indonesia,ASIA,n/a
+Iran,ASIA,n/a
+Iraq,MIDDLE EAST,CP
+Ireland,EUROPE,n/a
+Israel,MIDDLE EAST,n/a
+Italy,EUROPE,Office
+Jamaica,CARIBBEAN,n/a
+Japan,ASIA,n/a
+Jordan,MIDDLE EAST,CP
+Kazakhstan,ASIA,n/a
+Kenya ,EAST AFRICA,CP
+Kiribati,OCEANIA,n/a
+Kuwait,MIDDLE EAST,n/a
+Kyrgyz Republic,ASIA,n/a
+Laos,ASIA,n/a
+Latvia,EUROPE,n/a
+Lebanon,MIDDLE EAST,CP
+Lesotho,EAST AFRICA,n/a
+Liberia,WEST AFRICA,CP
+Libya,MIDDLE EAST,CP
+Liechtenstein,EUROPE,n/a
+Lithuania,EUROPE,n/a
+Luxembourg,EUROPE,n/a
+Madagascar,EAST AFRICA,n/a
+Malawi,EAST AFRICA,n/a
+Malaysia,ASIA,CP
+Maldives,ASIA,n/a
+Mali,WEST AFRICA,CP
+Malta,EUROPE,n/a
+Marshall Islands,OCEANIA,n/a
+Mauritania,WEST AFRICA,n/a
+Mauritius,EAST AFRICA,n/a
+Mexico,LATIN AMERICA,CP
+Micronesia,OCEANIA,n/a
+Moldova,EUROPE,n/a
+Monaco,EUROPE,n/a
+Mongolia,ASIA,n/a
+Montenegro,EUROPE,n/a
+Morocco,MIDDLE EAST,n/a
+Mozambique,EAST AFRICA,n/a
+Myanmar,ASIA,CP
+Namibia,EAST AFRICA,n/a
+Nauru,OCEANIA,n/a
+Nepal,ASIA,n/a
+Netherlands,EUROPE,n/a
+New Zealand,OCEANIA,n/a
+Nicaragua,LATIN AMERICA,n/a
+Niger,WEST AFRICA,CP
+Nigeria,WEST AFRICA,CP
+Niue,OCEANIA,n/a
+North Korea,ASIA,n/a
+North Macedonia,EUROPE,n/a
+Norway,EUROPE,n/a
+Oman,MIDDLE EAST,n/a
+Pakistan,ASIA,CP
+Palau,OCEANIA,n/a
+Palestine,MIDDLE EAST,n/a
+Panama,LATIN AMERICA,n/a
+Papua New Guinea,OCEANIA,n/a
+Paraguay,LATIN AMERICA,n/a
+Peru,LATIN AMERICA,n/a
+Philippines,ASIA,n/a
+Poland,EUROPE,n/a
+Portugal,EUROPE,n/a
+Qatar,MIDDLE EAST,n/a
+Romania,EUROPE,n/a
+Russia,EUROPE,n/a
+Rwanda,GREAT LAKES,n/a
+Saint Lucia,CARIBBEAN,n/a
+Saint Vincent and the Grenadines,CARIBBEAN,n/a
+Samoa,OCEANIA,n/a
+San Marino,EUROPE,n/a
+Sao Tome and Principe,WEST AFRICA,n/a
+Saudi Arabia,MIDDLE EAST,n/a
+Senegal,WEST AFRICA,Office
+Serbia,EUROPE,n/a
+Seychelles,WEST AFRICA,n/a
+Sierra Leone,WEST AFRICA,CP
+Singapore,ASIA,n/a
+Slovakia,EUROPE,n/a
+Slovenia,EUROPE,n/a
+Solomon Islands,OCEANIA,n/a
+Somalia,EAST AFRICA,CP
+South Africa,EAST AFRICA,n/a
+South Korea,ASIA,n/a
+South Sudan,EAST AFRICA,CP
+Spain,EUROPE,n/a
+Sri Lanka,ASIA,n/a
+St Kitts and Nevis,CARIBBEAN,n/a
+St Lucia,CARIBBEAN,n/a
+St Vincent and The Grenadines,CARIBBEAN,n/a
+Sudan,EAST AFRICA,Office
+Suriname,LATIN AMERICA,n/a
+Sweden,EUROPE,n/a
+Switzerland,EUROPE,Office
+Syria,MIDDLE EAST,CP
+Tajikistan,ASIA,n/a
+Tanzania,GREAT LAKES,CP
+Thailand,ASIA,CP
+Timor-Leste,ASIA,n/a
+Togo,WEST AFRICA,n/a
+Tonga,OCEANIA,n/a
+Trinidad and Tobago,CARIBBEAN,n/a
+Tunisia,MIDDLE EAST,CP
+Turkey,MIDDLE EAST,n/a
+Turkmenistan,ASIA,n/a
+Tuvalu,OCEANIA,n/a
+Uganda,EAST AFRICA,CP
+Ukraine,EUROPE,n/a
+United Arab Emirates,MIDDLE EAST,n/a
+UK ,EUROPE,Office
+US,NORTH AMERICA,Office
+Uruguay,LATIN AMERICA,n/a
+Uzbekistan,ASIA,n/a
+Vanuatu,OCEANIA,n/a
+Venezuela,LATIN AMERICA,CP
+Vietnam,ASIA,n/a
+Yemen,EAST AFRICA,CP
+Zambia,EAST AFRICA,n/a
+Zimbabwe,EAST AFRICA,CP
